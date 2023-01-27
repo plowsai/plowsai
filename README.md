@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plowsai
+- 👋 Hi, I’m Jordan Plows
 - 👀 I’m interested in all things related to AI and the companies working on safely transitioning humanity to a post AGI world
 - 🌱 I’m currently working on writing better JavaScript Code
 - 🐍 I am Pythonista 
